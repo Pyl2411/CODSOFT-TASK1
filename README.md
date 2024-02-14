@@ -1,2 +1,2 @@
 # CODSOFT-TASK1
-I create a TIC-TOE-TOE game Using C++
+I create a Gessing No code Using C++
